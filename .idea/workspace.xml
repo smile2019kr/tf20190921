@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a402b85c-57b5-4c53-962a-72502a310f02" name="Default Changelist" comment="" />
+    <list default="true" id="a402b85c-57b5-4c53-962a-72502a310f02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cnn2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn2/cat_mosaic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn2/face_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn2/face_mosaic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digits/hand_writing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dlearn/face.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dlearn/fashion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dlearn/img_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dlearn/lena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lstm/ai_trader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dlearn/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/dlearn/__init__.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +30,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R80yaUNAMWtmIbKtCCgTeSrjjk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -68,5 +90,18 @@
       <updated>1569033670595</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
